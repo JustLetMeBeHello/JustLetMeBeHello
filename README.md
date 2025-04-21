@@ -1,5 +1,5 @@
 
-<H1 align=´center´>Hi My name is Shishir Maddineni I am thoroughly interested in AI as a tool and am currently working on a few projects</H1>
+<H1 align=´right´>Hi My name is Shishir Maddineni I am thoroughly interested in AI as a tool and am currently working on a few projects</H1>
 ###
 
 ###
