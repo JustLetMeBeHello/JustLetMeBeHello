@@ -1,22 +1,38 @@
+# 👋 Hi, I'm Shishir Maddineni!
 
-<H1 align="right">Hi My name is Shishir Maddineni I am thoroughly interested in AI as a tool and am currently working on a few projects</H1>
-###
+I'm a high school developer with a passion for **languages, learning, and culture**.  
+I love building projects that inspire curiosity and connection—like [idiomator.com](https://idiomator.com), my site dedicated to making idioms more accessible across languages!
 
-###
+---
 
+## 🧑‍💻 Tech Stack & Interests
 
+- **Python** (I use jupyter notebooks a lot)
+- **Frontend Development** with JavaScript
+- **AI Training & Machine Learning**
+- Solid understanding of **Object-Oriented Programming (OOP)**
 
+---
+
+### 🌍 Fun Facts About Me
+
+- 🎸 I play the ukulele!
+- 🌐 I’m fascinated by languages and how they shape our world.
+- 🚀 Always exploring new ways to combine tech and creativity.
+
+---
+
+## 📌 Featured Project
+
+[![idiomator.com](https://img.shields.io/badge/idiomator.com-Visit-blue)](https://idiomator.com)  
+A website for learning idioms and currently growing!
+
+---
+
+<!-- GitHub Stats (optional, uncomment to use) -->
 <!--
-**JustLetMeBeHello/JustLetMeBeHello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustLetMeBeHello&show_icons=true&theme=radical)
 -->
+
+Thanks for stopping by!  
+Feel free to connect or check out what I’m working on next. 😊
