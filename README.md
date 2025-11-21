@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shishir Maddineni!
 
-I'm a high school developer with a passion for **languages, learning, and culture**.  
+I’m a high school developer who creates intelligent systems to document and connect cultures while solving real-world problems. 
 I love building projects that inspire curiosity and connection—like [idiomator.com](https://idiomator.com), my site dedicated to making idioms more accessible across languages!
 
 ---
@@ -25,7 +25,7 @@ I love building projects that inspire curiosity and connection—like [idiomator
 ## 📌 Featured Project
 
 [![idiomator.com](https://img.shields.io/badge/idiomator.com-Visit-blue)](https://idiomator.com)  
-A website for learning idioms and currently growing!
+A website for learning documenting and discovering idioms and idiom morphology and currently growing!
 
 ---
 
