@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Shishir Maddineni!
+## Hi, I'm Shishir Maddineni!
 
 I’m a high school developer who creates intelligent systems to document and connect cultures while solving real-world problems. 
 I love building projects that inspire curiosity and connection—like [idiomator.com](https://idiomator.com), my site dedicated to making idioms more accessible across languages!
 
 ---
 
-## 🧑‍💻 Tech Stack & Interests
+## Tech Stack & Interests
 
 - **Python** (I use jupyter notebooks a lot)
 - **Frontend Development** with JavaScript
@@ -14,17 +14,18 @@ I love building projects that inspire curiosity and connection—like [idiomator
 
 ---
 
-### 🌍 Fun Facts About Me
+### Fun Facts About Me
 
-- 🎸 I play the ukulele!
-- 🌐 I’m fascinated by languages and how they shape our world.
-- 🚀 Always exploring new ways to combine tech and creativity.
+- I play the ukulele!
+- I’m fascinated by languages and how they shape our world.
+- Always exploring new ways to combine tech and creativity.
 
 ---
 
-## 📌 Featured Project
+## Featured Projects
 
 [![idiomator.com](https://img.shields.io/badge/idiomator.com-Visit-blue)](https://idiomator.com)  
+[![aerosleeve.app](https://aerosleeve.app)
 A website for learning documenting and discovering idioms and idiom morphology and currently growing!
 
 ---
