@@ -25,7 +25,7 @@ I love building projects that inspire curiosity and connection—like [idiomator
 ## Featured Projects
 
 [![idiomator.com](https://img.shields.io/badge/idiomator.com-Visit-blue)](https://idiomator.com)
-A website involved with learning, documenting, and preserving idioms for Research, Cultural, and Language Learning purposes
+A website involved with learning, documenting, and preserving idioms for Research, Cultural, and Language Learning
 
 [![aerosleeve.app](https://img.shields.io/badge/aerosleeve.app-Visit-blue)](https://aerosleeve.app)
 A startup dedicated to improving inhaler technique and patient care
